@@ -28,7 +28,7 @@ book:
     - rendering.qmd
     - what-next.qmd
     - references.qmd
-  repo-url: https://github.com/UtrechtUniversity/workshop-reproducible-manuscripts
+  repo-url: https://github.com/mlarpis/quarto
   repo-actions: [edit]
 
   sidebar:
