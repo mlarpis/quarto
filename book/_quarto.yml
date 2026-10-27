@@ -10,7 +10,7 @@ book:
     - index.qmd
     - acknowledgements.qmd
     - schedule.qmd
-    - part: Preparation
+    - part: "**Step 0**: Preparation"
       chapters:
         - installation-and-setup.qmd
         - workshop-materials.qmd

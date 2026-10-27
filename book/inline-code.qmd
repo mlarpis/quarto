@@ -1,4 +1,4 @@
-# Inline Code {.unnumbered}
+# **Step 5**: Inline Code {.unnumbered}
 
 ## Slides
 

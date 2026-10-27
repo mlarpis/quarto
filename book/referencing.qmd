@@ -1,10 +1,10 @@
-# Referencing {.unnumbered}
+# **Step 3**: Referencing {.unnumbered}
 
 ```{=html}
 <iframe width="650" height="500" src="slides/writing.html#/referencing"></iframe>
 ```
 
-### Exercise
+### Exercise 
 
 We're assuming installation of Zotero Desktop, Zotero Connector, and Better BibTex for Zotero were completed successfully.
 
